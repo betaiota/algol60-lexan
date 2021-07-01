@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1558385086 source:d:\univer\С++programm\spocour\lexan\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<string.h>
+	"directiveFile.h"
+	"DescriptionFile.h"
+	"classTab.h"
+	"classTree.h"
+	"CodeGen.h"
+	"LexAn.h"
+	"SinAn.h"
+
+1557083540 d:\univer\С++programm\spocour\lexan\sisanal.h
+
+1557602491 d:\univer\С++programm\spocour\lexan\directivefile.h
+
+1558354801 d:\univer\С++programm\spocour\lexan\classtab.h
+
+1557067890 d:\univer\С++programm\spocour\lexan\lexanal.h
+
+1558276869 d:\univer\С++programm\spocour\lexan\lexan.h
+
+1558382546 d:\univer\С++programm\spocour\lexan\sinan.h
+
+1558362998 d:\univer\С++programm\spocour\lexan\classtree.h
+
+1558385961 d:\univer\С++programm\spocour\lexan\codegen.h
+	<cstring>
+
+1558276127 d:\univer\С++programm\spocour\lexan\classtree.cpp
+
+1558363023 d:\univer\С++programm\spocour\lexan\classtreeo.h
+
+1558378121 d:\univer\С++programm\spocour\lexan\descriptionfile.h
+	"classTabO.h"
+	"classTreeO.h"
+
+1558355097 d:\univer\С++programm\spocour\lexan\classtabo.h
+
+1558385086 source:c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<string.h>
+	"directiveFile.h"
+	"DescriptionFile.h"
+	"classTab.h"
+	"classTree.h"
+	"CodeGen.h"
+	"LexAn.h"
+	"SinAn.h"
+
+1557602491 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\directivefile.h
+
+1558378121 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\descriptionfile.h
+	"classTabO.h"
+	"classTreeO.h"
+
+1558355097 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\classtabo.h
+
+1558363023 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\classtreeo.h
+
+1558354801 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\classtab.h
+
+1558362998 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\classtree.h
+
+1558385961 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\codegen.h
+	<cstring>
+
+1558276869 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\lexan.h
+
+1558382546 c:\users\Максим\dropbox\Компилятор АЛГОЛ-60\lexan\sinan.h
+
